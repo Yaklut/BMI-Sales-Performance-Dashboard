@@ -106,7 +106,7 @@ Build a data-driven CRM system leveraging repeat purchase behavior. Develop tier
 Prepare targeted campaigns for peak periods. Implement dynamic pricing strategies based on demand patterns.
 
 Author
-**Refa Defanda Witanto**
+Refa Defanda Witanto
 International Relations, Universitas Brawijaya
 [LinkedIn](https://www.linkedin.com/in/refa-defanda/) | refadfnda@gmail.com
 
