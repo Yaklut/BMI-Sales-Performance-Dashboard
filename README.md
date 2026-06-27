@@ -8,6 +8,9 @@ Bank Muamalat x Rakamin Academy | April–May 2025
 
 ## Project Overview
 
+![Dashboard Preview](Project-Overview.png)
+
+
 PT Sejahtera Bersama (Bank Muamalat) needed a data-driven approach to evaluate sales performance across products, customer segments, and cities. This project involved building a relational data model, integrating multiple datasets using SQL, and delivering a business intelligence dashboard with strategic recommendations.
 
 ---
@@ -119,15 +122,19 @@ ORDER BY
 ## Recommendations
 
 **1. Product Portfolio Optimization**
+
 Implement premium positioning for high-value categories (Robots & Drones). Create bundling packages and subscription models for digital products (eBooks & Training Videos).
 
 **2. Geographic Marketing Strategy**
+
 Allocate greater resources to top-performing cities. Launch market penetration campaigns in underperforming cities (Albany, Springfield).
 
 **3. Customer Retention**
+
 Build a data-driven CRM system leveraging repeat purchase behavior. Develop tiered loyalty programs with reward points.
 
 **4. Seasonal Promotion Planning**
+
 Prepare targeted campaigns for peak periods. Implement dynamic pricing strategies based on demand patterns.
 
 ---
@@ -135,9 +142,7 @@ Prepare targeted campaigns for peak periods. Implement dynamic pricing strategie
 ## Author
 
 **Refa Defanda Witanto**
+
 International Relations, Universitas Brawijaya
+
 [LinkedIn](https://www.linkedin.com/in/refa-defanda/) | refadfnda@gmail.com
-
----
-
-Setelah kamu paste README-nya, kalau ada screenshot dari PDF presentasi (slide dashboard-nya), upload juga ke repo sebagai gambar — itu akan langsung muncul di README dan bikin profilnya jauh lebih visual. Mau aku tunjukkan cara menambahkan gambar ke README-nya juga?
