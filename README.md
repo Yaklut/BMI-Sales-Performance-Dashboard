@@ -2,6 +2,7 @@ BMI Sales Performance Dashboard
 Project-Based Virtual Internship — Business Intelligence Analyst
 Bank Muamalat x Rakamin Academy | April–May 2025
 
+---
 
 Project Overview
 
@@ -9,12 +10,15 @@ Project Overview
 
 PT Sejahtera Bersama (Bank Muamalat) needed a data-driven approach to evaluate sales performance across products, customer segments, and cities. This project involved building a relational data model, integrating multiple datasets using SQL, and delivering a business intelligence dashboard with strategic recommendations.
 
+---
 
 Objectives
 - Identify primary keys and map entity relationships across 4 datasets
 - Integrate datasets into a unified master table using SQL
 - Build an interactive sales performance dashboard
 - Deliver data-driven business recommendations
+
+---
 
 Dataset Structure
 | Table | Primary Key | Description |
@@ -23,6 +27,8 @@ Dataset Structure
 | bmi_orders | OrderID | Transaction records with product and quantity |
 | bmi_products | ProdNumber | Product name, category reference, and price |
 | bmi_productcategory | CategoryID | Product category names and abbreviations |
+
+---
 
 Entity Relationships:
 - One Customer → Many Orders (One-to-Many)
@@ -33,6 +39,8 @@ Tools Used
 - Google BigQuery — SQL query execution and master table creation
 - Google Looker Studio — Dashboard and data visualization
 - SQL — Data integration via multi-table JOINs
+
+---
 
 SQL Query
 The following query creates the master table by joining all 4 datasets:
@@ -62,6 +70,8 @@ ORDER BY
   order_date ASC;
 ```
 
+---
+
 Dashboard Summary
 Key Metrics (All-time):
 - Total Sales: Rp1.75 Billion
@@ -89,11 +99,15 @@ Top Cities by Sales:
 4. San Diego — 29,229
 5. Albany — 25,406
 
+---
+
 Key Insights
 - Revenue remained stable throughout the analyzed period with strong repeat purchase behavior (11,654 orders from only 1,671 customers)
 - Robots and Drones dominate revenue despite moderate order volume, indicating high unit price contribution
 - eBooks lead in order quantity but generate lower revenue, reflecting a low average selling price
 - Strong geographic concentration in Washington, Houston, and Sacramento suggests untapped potential in smaller cities
+
+---
 
 Recommendations
 1. Product Portfolio Optimization
@@ -108,9 +122,14 @@ Build a data-driven CRM system leveraging repeat purchase behavior. Develop tier
 4. Seasonal Promotion Planning
 Prepare targeted campaigns for peak periods. Implement dynamic pricing strategies based on demand patterns.
 
+---
+
 Author
+
 Refa Defanda Witanto
+
 International Relations, Universitas Brawijaya
+
 [LinkedIn](https://www.linkedin.com/in/refa-defanda/) | refadfnda@gmail.com
 
 ---
