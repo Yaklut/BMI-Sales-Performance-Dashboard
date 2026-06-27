@@ -1,10 +1,12 @@
-BMI Sales Performance Dashboard
-Project-Based Virtual Internship — Business Intelligence Analyst
+**BMI Sales Performance Dashboard**
+
+**Project-Based Virtual Internship — Business Intelligence Analyst**
+
 Bank Muamalat x Rakamin Academy | April–May 2025
 
 ---
 
-Project Overview
+**Project Overview**
 
 ![Dashboard Preview](Project-Overview.png)
 
@@ -12,7 +14,7 @@ PT Sejahtera Bersama (Bank Muamalat) needed a data-driven approach to evaluate s
 
 ---
 
-Objectives
+**Objectives**
 - Identify primary keys and map entity relationships across 4 datasets
 - Integrate datasets into a unified master table using SQL
 - Build an interactive sales performance dashboard
@@ -20,7 +22,7 @@ Objectives
 
 ---
 
-Dataset Structure
+**Dataset Structure**
 | Table | Primary Key | Description |
 |-------|-------------|-------------|
 | bmi_customers | CustomerID | Customer profile and location data |
@@ -30,15 +32,16 @@ Dataset Structure
 
 ---
 
-Entity Relationships:
+**Entity Relationships:**
 - One Customer → Many Orders (One-to-Many)
 - Many Orders → One Product (Many-to-One)
 - Many Products → One Category (Many-to-One)
 
-Tools Used
-- Google BigQuery — SQL query execution and master table creation
-- Google Looker Studio — Dashboard and data visualization
-- SQL — Data integration via multi-table JOINs
+
+**Tools Used**
+- **Google BigQuery** — SQL query execution and master table creation
+- **Google Looker Studio** — Dashboard and data visualization
+- **SQL** — Data integration via multi-table JOINs
 
 ---
 
@@ -72,27 +75,31 @@ ORDER BY
 
 ---
 
-Dashboard Summary
-Key Metrics (All-time):
+**Dashboard Summary**
+
+**Key Metrics (All-time):**
 - Total Sales: Rp1.75 Billion
 - Total Orders: 11,654
 - Total Customers: 1,671
 
-Top Product Categories by Revenue:
+
+**Top Product Categories by Revenue:**
 1. Robots
 2. Drones
 3. Robot Kits
 4. Drone Kits
 5. Training Videos
 
-Top Product Categories by Order Volume:
+
+**Top Product Categories by Order Volume:**
 1. eBooks
 2. Training Videos
 3. Blueprints
 4. Drone Kits
 5. Drones
 
-Top Cities by Sales:
+
+**Top Cities by Sales:**
 1. Washington — 55,382
 2. Houston — 33,761
 3. Sacramento — 33,380
@@ -101,7 +108,7 @@ Top Cities by Sales:
 
 ---
 
-Key Insights
+**Key Insights**
 - Revenue remained stable throughout the analyzed period with strong repeat purchase behavior (11,654 orders from only 1,671 customers)
 - Robots and Drones dominate revenue despite moderate order volume, indicating high unit price contribution
 - eBooks lead in order quantity but generate lower revenue, reflecting a low average selling price
@@ -109,24 +116,24 @@ Key Insights
 
 ---
 
-Recommendations
-1. Product Portfolio Optimization
+**Recommendations**
+**1. Product Portfolio Optimization**
 Implement premium positioning for high-value categories (Robots & Drones). Create bundling packages and subscription models for digital products (eBooks & Training Videos).
 
-2. Geographic Marketing Strategy
+**2. Geographic Marketing Strategy**
 Allocate greater resources to top-performing cities. Launch market penetration campaigns in underperforming cities (Albany, Springfield).
 
-3. Customer Retention
+**3. Customer Retention**
 Build a data-driven CRM system leveraging repeat purchase behavior. Develop tiered loyalty programs with reward points.
 
-4. Seasonal Promotion Planning
+**4. Seasonal Promotion Planning**
 Prepare targeted campaigns for peak periods. Implement dynamic pricing strategies based on demand patterns.
 
 ---
 
-Author
+**Author**
 
-Refa Defanda Witanto
+**Refa Defanda Witanto**
 
 International Relations, Universitas Brawijaya
 
