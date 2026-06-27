@@ -4,6 +4,7 @@ Bank Muamalat x Rakamin Academy | April–May 2025
 
 
 Project Overview
+
 ![Dashboard Preview](Project-Overview.png)
 
 PT Sejahtera Bersama (Bank Muamalat) needed a data-driven approach to evaluate sales performance across products, customer segments, and cities. This project involved building a relational data model, integrating multiple datasets using SQL, and delivering a business intelligence dashboard with strategic recommendations.
