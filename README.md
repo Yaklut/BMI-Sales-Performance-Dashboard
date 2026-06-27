@@ -111,5 +111,3 @@ International Relations, Universitas Brawijaya
 [LinkedIn](https://www.linkedin.com/in/refa-defanda/) | refadfnda@gmail.com
 
 ---
-
-Setelah kamu paste README-nya, kalau ada screenshot dari PDF presentasi (slide dashboard-nya), upload juga ke repo sebagai gambar — itu akan langsung muncul di README dan bikin profilnya jauh lebih visual. Mau aku tunjukkan cara menambahkan gambar ke README-nya juga?
