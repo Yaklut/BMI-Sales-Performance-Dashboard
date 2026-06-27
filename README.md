@@ -119,15 +119,19 @@ ORDER BY
 **Recommendations**
 
 **1. Product Portfolio Optimization**
+
 Implement premium positioning for high-value categories (Robots & Drones). Create bundling packages and subscription models for digital products (eBooks & Training Videos).
 
 **2. Geographic Marketing Strategy**
+
 Allocate greater resources to top-performing cities. Launch market penetration campaigns in underperforming cities (Albany, Springfield).
 
 **3. Customer Retention**
+
 Build a data-driven CRM system leveraging repeat purchase behavior. Develop tiered loyalty programs with reward points.
 
 **4. Seasonal Promotion Planning**
+
 Prepare targeted campaigns for peak periods. Implement dynamic pricing strategies based on demand patterns.
 
 ---
