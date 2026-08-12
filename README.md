@@ -2,7 +2,7 @@
 
 **Project-Based Virtual Internship — Business Intelligence Analyst**
 
-Bank Muamalat x Rakamin Academy | April–May 2025
+Bank Muamalat x Rakamin Academy | October-November 2025
 
 ---
 
