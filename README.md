@@ -83,7 +83,7 @@ ORDER BY
 ## Dashboard Summary
 
 **Key Metrics (All-time):**
-- Total Sales: Rp1.75 Billion
+- Total Sales: Rp1.75 million
 - Total Orders: 11,654
 - Total Customers: 1,671
 
